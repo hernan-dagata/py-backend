@@ -24,3 +24,9 @@ Subir el ambiente local por el puerto 5000:
 ```sh
 uvicorn main:app --reload --port 5000
 ```
+----
+## Para ver la documentación swagger en local:
+Abrir la url: 
+````sh
+http://127.0.0.1:5000/docs#/Movies/get_movies_movies_get
+```

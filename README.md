@@ -1,4 +1,4 @@
-# Steps
+# Pasos para configurar el ambiente local.
 
 Clonar el repo: 
 ```sh

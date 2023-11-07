@@ -24,6 +24,11 @@ Subir el ambiente local por el puerto 5000:
 ```sh
 uvicorn main:app --reload --port 5000
 ```
+
+Actualizar archivo requirements (tener env activo):
+```sh
+pip freeze > requirements.txt 
+```
 ----
 ## Para ver la documentación swagger en local:
 Abrir la url: 
